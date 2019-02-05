@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Sigmar+One');
+
 .App {
   text-align: center;
   /* Clip text element */
@@ -45,5 +47,17 @@
 
   .px-title {
     background-image: url(https://pbs.twimg.com/profile_images/1080674887188983809/9ZNhldT8_400x400.jpg);
+  }
+
+  .experimental-string1 {
+    font-size: 100px;
+    margin: 50px;
+    font-family: 'Sigmar One', sans-serif;
+  }
+
+  .experimental-string2 {
+    font-size: 100px;
+    margin: 50px;
+    font-family: 'Sigmar One', sans-serif;
   }
 }
